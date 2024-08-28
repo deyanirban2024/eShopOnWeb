@@ -7,9 +7,9 @@ name: eShopOnWeb Build and Test
 env:
   RESOURCE-GROUP: rg-az400-eshopeonweb-k21
   LOCATION: eastus2
-  TEMPLATE-FILE: infra/webapp.bicep
+  TEMPLATE-FILE:   infra/webapp.bicep
   SUBSCRIPTION-ID: e66cfc6d-c09a-4cd2-bba1-87531f24c2c3
-  WEBAPP-NAME: az400-webapp-k21
+  WEBAPP-NAME:     az400-webapp-k21
 
 
 jobs:
